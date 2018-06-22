@@ -12,8 +12,21 @@ Figure configure OpenELEC to boot off usb
 Requirements
 ============
 o Fanless
-o 2x lan
+o 2x GbE lan
 o 2x 2.5" bays
+o 3x PCIe 3.0 x16 slots would rock
+o 1x USB 3.0 (or more)
+o Onboard VGA and HDMI
+
+NOTE: I had purchasedL:
+  GIGABYTE GA-F2A88XN-WIFI FM2+/FM2 A88X (Bolton D4) Wi-Fi/BT4.0 SATA 6Gb/s
+  complete/2014/htpc/amazon-htpc-20141030.txt
+
+For CPUs quick googling shows:
+  AMD A10 -7870K 3.9 GHz Quad-Core Processor - 4 MB - Socket FM2+ - Retail - $111.36
+  (newegg.com - June 22, 2018)
+
+use pcpartpicker when in doubt
 
 
 ===> Need to integrate the Ceton InfiniTV 4 PCIe 4-channel
