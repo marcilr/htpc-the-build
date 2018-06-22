@@ -1,0 +1,138 @@
+the-build.txt
+Created Thu Jun 14 08:12:01 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+The Build
+
+
+Figure configure OpenELEC to boot off usb
+
+
+Requirements
+============
+o Fanless
+o 2x lan
+o 2x 2.5" bays
+
+
+===> Need to integrate the Ceton InfiniTV 4 PCIe 4-channel
+     Internal Cable TV Tuner Card for CableCARD
+
+     Dimensions, 6.6" (D) x 0.7" (W) x 2.5" (H)
+     --https://www.amazon.com/Ceton-InfiniTV-PCIe-4-channel-CableCARD/dp/B003B4VLJQ
+
+     see: svn-ORIG-20151006/media/htpc/the-build/specs.txt:53
+     svn-ORIG-20151006/media/htpc/the-build/the-build.txt:333:
+     o Installed the Ceton InfiniTV 4 PCIe 4-channel PCIe cable
+       card carrier in the HDPlex H10.sodd
+
+
+Perhaps switch up the current htpc HDPlex H10.sodd
+for a CappuccinoPC:
+
+
+Echo 236FE i7 Fanless Mini PC - An Embedded System
+with i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
+============================================================
+o 7th and 6th Generation Intel Core i7 Mobile Processor 
+  (SkyLake-S / Kaby Lake)
+o Fanless Mini PC Industrial Design
+o 1 Front-access CFast Socket
+o 3 Front-access SIM Card sockets (Required Separate Mini PCIe Modem)
+o 2 Front-access 2.5" SSD/ HDD
+o Dual NIC
+o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D))
+  NOTE: This should fit the Ceton InfiniTV tuner card:
+        Dimensions: 6.6" (D) x 0.7" (W) x 2.5" (H) inches.
+
+o DVI-I/ DVI-D/ DisplayPort Interface, up to 3 independent
+  4K displays(DisplayPort only)
+o 8 x USB 3.0
+o 4 x COM Ports
+o RAM: 2 DDR4 2133MHz SO-DIMM, up to 32GB
+o Dimenstions: 10.2"(W) x 3.1"(H) x 8.5"(D)
+
+What video chipset is used? (Check OpenElec compatibility)
+
+Think this is it!
+
+
+Echo 236FE-PoE i7 Fanless Mini PC - An Embedded System
+with PCIe Express x16 slot and 4 PoE Ports
+======================================================
+o 7th and 6th Generation Intel Core i7 Mobile Processor 
+  (SkyLake-S / Kaby Lake)
+o Fanless Mini PC Industrial Design
+o 1 Front-access CFast Socket
+o 3 Front-access SIM Card sockets (Required Separate Mini PCIe Modem)
+o 2 Front-access 2.5" SSD/ HDD
+o Dual NIC
+o 4x PoE
+o 1 PCIe x16 Expansion Slot (Max Card Dimension: 4.2"(H) x 7.9"(D) )
+o VGA/ DVI-D/ 2 x DisplayPort Interface, up to
+  3 independent 4K displays(DisplayPort only)
+o 6 x USB 3.0
+o 4 x COM Ports
+o 32 Isolated DIO : 16 DI, 16 DO
+RAM: 2 DDR4 2133MHz SO-DIMM, up to 32GB
+Dimensions: 10.2"(W) x 3.1"(H) x 8.5"(D)
+
+The difference between this and the previous is the 4x PoE.
+Not needed in my case.
+
+
+Processor
+=========
+Default: Intel® Pentium® Processor G4400 (3M Cache, 3.30 GHz) [+$0.00]
+
+Intel Core i7-7700T Processor (8M Cache, up to 3.80 GHz) . . . [+$400.00]
+o quad-core
+o 14nm
+
+Wireless
+========
+Mini PCI Express Intel Wireless-AC 7260+Bluetooth 4.0 Dual Antenna [+$55.00]
+
+
+Mounting Devices & Accessories
+==============================
+I/O Ports Dust Cover Kit . . . [+$25.00]
+DINRAIL + VESA Mounting Kit . . . [+$120.00]   <=== For mounting upside down 
+                                                    under desk.
+
+
+Memory
+======
+DDR4-2133 SODIMM 32 GB (16GBx2) . . . [+$373.00]   <===
+
+
+Hard Drive
+==========
+Default: 500GB 2.5" SATA III 5400RPM Hard Drive [$0.00]
+
+
+Base price: $1,258.00
+
+
+Links
+=====
+Echo 236FE i7 Fanless Mini PC - An Embedded System with
+i7 Skylake-S / Kaby Lake and with PCIe Express x16 slot
+http://www.cappuccinopc.com/embedded-systems/Echo236FE-i7-fanless-mini-pc-with-PCIe-Express-x16-slot.asp
+
+Installing OpenELEC | OpenELEC Mediacenter
+Has installation to USB
+https://www.openelec.tv/documentation/installing-openelec
+https://www.openelec.tv/documentation/installing-openelec/basic-install-guide
+
+openlec
+o Hardware - As it is designed to be lightweight, OpenELEC
+  uses very little system resources for processor or memory.
+  With support for Intel's HD Graphics, NVIDIA's GeForce & ION
+  platform, AMD's Radeon & Fusion platform as well as Broadcom's
+  Crystal HD chip, OpenELEC can support high definition content
+  on machines with low-powered processors by offloading video
+  content to the supported graphics cards and decoders.
+o OpenELEC won the Swiss Opensource Award in 2014
+https://openelec.tv/
