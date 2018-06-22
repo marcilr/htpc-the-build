@@ -1,0 +1,29 @@
+drives.txt
+Created Thu Jun 14 08:48:29 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Drives
+
+
+2x Seagate 5TB = 3x $211.68 = $635.04
+
+NOTE:  7mm―500GB, 1TB and 2TB capacity
+      15mm, 3TB to 5TB capacity
+
+Seagate 5TB BarraCuda 5400 RPM   <===
+128MB Cache SATA 6.0Gb/s 2.5"
+15mm Laptop Internal Hard Drive ST5000LM000
+price: $211.68 (newegg.com - June 14, 2018)
+
+
+Seagate 3TB BarraCuda 5400 RPM
+128MB Cache SATA 6.0Gb/s 2.5"
+15mm Laptop Internal Hard Drive ST3000LM024
+price: $129.99 (newegg.com - June 14, 2018)
+
+Seagate 2TB BarraCuda 5400 RPM
+128MB Cache SATA 6.0Gb/s 2.5"
+Laptop Internal Hard Drive ST2000LM015
+price: $71.99 (newegg.com - June 14, 2018)
+
