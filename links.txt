@@ -1,0 +1,17 @@
+links.txt
+Created Fri Jun 22 14:57:27 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Build related links
+
+
+Links
+=====
+GIGABYTE G1 Gaming GA-Z97MX-Gaming 5 (rev. 1.0)
+LGA 1150 Intel Z97 HDMI SATA 6Gb/s USB 3.0
+Micro ATX Intel Motherboard
+Awarded 'Best Bang for the Buck' by bjorn3d.com
+Out of stock - June 21, 2018 
+https://www.newegg.com/Product/Product.aspx?Item=N82E16813128716
+
