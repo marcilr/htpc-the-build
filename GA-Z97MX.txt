@@ -32,8 +32,21 @@ M.2:      1x M.2 PCIe connector
 lan:      1x GbE, Qualcomm Atheros Killer E2201   <== Two would be better
 audio:    Realtek ALC1150
 
-
 --newegg.com
+
+
+i need a microATX board that has PCIe 8x/8x
+(dual slots for dual GPU but not SLI/CrossFire)
+giantbucket  May 2, 2015, 12:20 PM
+
+Although you have no need per your post, if you wanted (2) PCIe 3.0 slots to run two cards at x8, this would do that:
+
+$114 GIGABYTE GA-Z97MX-Gaming 5
+http://www.newegg.com/Product/Product.aspx?Item=N82E16813128716
+
+The MSI has 100% "5 egg" reviews and the Gigabyte Z97M has 80%, but it's hard to accept the small number of reviews for both as statistically significant
+--tomshardware.com/
+
 
 Links
 =====
@@ -43,3 +56,8 @@ Micro ATX Intel Motherboard
 Awarded 'Best Bang for the Buck' by bjorn3d.com
 Out of stock - June 21, 2018
 https://www.newegg.com/Product/Product.aspx?Item=N82E16813128716
+
+i need a microATX board that has PCIe 8x/8x
+(dual slots for dual GPU but not SLI/CrossFire)
+giantbucket  May 2, 2015, 12:20 PM
+http://www.tomshardware.com/answers/id-2630981/microatx-board-pcie-dual-slots-dual-gpu-sli-crossfire.html
