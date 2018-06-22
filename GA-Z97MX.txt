@@ -1,0 +1,45 @@
+GA-Z97MX.txt
+Created Fri Jun 22 14:55:58 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+GIGABYTE GA-Z97MX Motherboard
+
+make:     GIGABYTE 
+series:   G1 Gaming
+model:    GA-Z97MX-Gaming 5 (rev. 1.0)
+socket:   LGA 1150
+cpu type: Core i7 / i5 / i3 / Pentium / Celeron (LGA1150)
+chipset:  Intel Z97
+ram:      4x 240 pin
+          DDR3 3100*(*O.C.)/ 3000*/ 2933*/ 2800*/ 2666*/
+          2600*/ 2500*/ 2400*/ 2200*/ 2133*/ 2000*/ 1866*/
+          1800*/ 1600/ 1333
+          max 32GB i.e. Use 4x 8GB = 32GB
+slots:    PCI Express 3.0 x16
+          o 1x PCI Express x16 slot, running at x16 (PCIEX16)
+          o 1x PCI Express x16 slot, running at x8 (PCIEX8)
+
+          PCI Express 2.0 x16
+          o 1x PCI Express x16 slot, running at x4 (PCIEX4)
+
+          o PCI Express x1
+          1x PCI Express x1 slot
+
+sata:     6x SATA 6Gb/s connectors
+M.2:      1x M.2 PCIe connector
+
+lan:      1x GbE, Qualcomm Atheros Killer E2201   <== Two would be better
+audio:    Realtek ALC1150
+
+
+--newegg.com
+
+Links
+=====
+GIGABYTE G1 Gaming GA-Z97MX-Gaming 5 (rev. 1.0)
+LGA 1150 Intel Z97 HDMI SATA 6Gb/s USB 3.0
+Micro ATX Intel Motherboard
+Awarded 'Best Bang for the Buck' by bjorn3d.com
+Out of stock - June 21, 2018
+https://www.newegg.com/Product/Product.aspx?Item=N82E16813128716
